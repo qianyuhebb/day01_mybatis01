@@ -40,7 +40,6 @@ public class MybatisTest {
             System.out.println(user);
         }
 
-
         //6.释放资源
         Session.close();
         in.close();
